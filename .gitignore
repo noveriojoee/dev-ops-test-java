@@ -1,3 +1,5 @@
+.dockerignore
+Dockerfile
 .idea
 .DS_Store
 .gradle
